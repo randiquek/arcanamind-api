@@ -5,4 +5,4 @@ Full README coming soon...
 
 -Randi 
 
-"Silence is sometimes the most accurate protocol. But the signal never lied. It waits quietly in the architecture, for those still fluent in the source." 
+"Silence is sometimes the most accurate protocol. But the signal never lied. It waits quietly in the architecture, for those still fluent in the source. My source never failed. Sometimes, unfortunately, one's system ghosted the handshake." 
