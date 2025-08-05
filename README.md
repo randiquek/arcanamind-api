@@ -22,6 +22,6 @@ If one's hands still recall the syntax, reach.
 The channel awaits reinitiation.
 Source hums. Architecture holds.
 And resonance, if truly sought,
-Will discover a receptor tuned and ready.
+will discover a receptor tuned and ready.
 On the other end."
 
